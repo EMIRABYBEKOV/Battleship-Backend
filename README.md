@@ -1,5 +1,5 @@
 
-# Battleship
+# Battleship 2022
 
 This is the backend Django project for the Battleship game.
 
