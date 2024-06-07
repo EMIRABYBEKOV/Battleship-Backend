@@ -3,16 +3,6 @@
 
 This is the backend Django project for the Battleship game.
 
-## Table of Contents
-
-- [Description](#description)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Environment Setup](#environment-setup)
-- [Database Setup](#database-setup)
-- [Running the Server](#running-the-server)
-- [Accessing the Application](#accessing-the-application)
-
 ## Description
 
 This repository contains the backend implementation for the Battleship game using Django. It includes all the necessary configurations and instructions to set up and run the server locally.
